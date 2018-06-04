@@ -1,2 +1,7 @@
 # hello-world
-learning repositories
+where it all begins
+
+These are 
+NOT
+the DROIDS
+>>> you're looking for.
